@@ -93,4 +93,4 @@ This project was built as part of practical electronics learning, with the goal 
 
 ## Author
 
-Electrical & Electronics Engineering Student
+Liyam Goldman

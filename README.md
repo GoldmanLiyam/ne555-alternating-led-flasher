@@ -40,7 +40,7 @@ Breadboard implementation of the circuit.
 
 ## Logic analyzer results
 
-### R2 large (LOW longer)
+### Max R2 (LED2 is ON longer then LED1)
 
 ![R2](images/R2_big.png)
 
@@ -48,7 +48,7 @@ Breadboard implementation of the circuit.
 
 ![equal](images/equal.png)
 
-### R1 large (HIGH longer)
+### Max R1 (LED1 is ON longer then LED2)
 
 ![R1](images/R1_big.png)
 

@@ -40,15 +40,15 @@ Breadboard implementation of the circuit.
 
 ## Logic analyzer results
 
-### Max R2 (LED2 is ON longer then LED1)
+### Max R2 (LED2 is ON longer than LED1)
 
 ![R2](images/R2_big.png)
 
-### R1 ≈ R2 (equal duty cycle)
+### R1 ≈ R2 (approximately equal duty cycle)
 
 ![equal](images/equal.png)
 
-### Max R1 (LED1 is ON longer then LED2)
+### Max R1 (LED1 is ON longer than LED2)
 
 ![R1](images/R1_big.png)
 

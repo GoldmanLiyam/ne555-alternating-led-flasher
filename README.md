@@ -63,7 +63,7 @@ Breadboard implementation of the circuit.
 ## Components
 
 - NE555 timer IC
-- NPN transistor
+- 2N3904 NPN transistor
 - Timing capacitor (47µF)
 
 Resistors:

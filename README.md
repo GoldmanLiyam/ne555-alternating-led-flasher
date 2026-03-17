@@ -125,3 +125,10 @@ This project was built as part of practical electronics learning, with the goal 
 ## Author
 
 Liyam Goldman
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+See the License file for details.

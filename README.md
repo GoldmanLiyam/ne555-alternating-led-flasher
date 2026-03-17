@@ -28,6 +28,16 @@ PDF version:
 
 ---
 
+## Hardware setup
+
+Breadboard implementation of the circuit.
+
+![setup1](images/setup1.jpg)
+
+![setup2](images/setup2.jpg)
+
+---
+
 ## Logic analyzer results
 
 ### R2 large (LOW longer)

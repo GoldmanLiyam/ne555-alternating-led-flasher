@@ -18,6 +18,38 @@ The circuit generates a periodic signal that drives two LEDs in alternating stat
 
 ---
 
+## Schematic
+
+![schematic](images/schematic.png)
+
+PDF version:
+
+[Download schematic](docs/schematic.pdf)
+
+---
+
+## Logic analyzer results
+
+### R2 large (LOW longer)
+
+![R2](images/R2_big.png)
+
+### R1 ≈ R2 (equal duty cycle)
+
+![equal](images/equal.png)
+
+### R1 large (HIGH longer)
+
+![R1](images/R1_big.png)
+
+---
+
+## Video demo
+
+[Watch video](video/demo.mp4)
+
+---
+
 ## Components
 
 - NE555 timer IC
@@ -63,17 +95,6 @@ The output at pin 3 drives:
 - One LED through an NPN transistor, acting as an inverter / switch
 
 This creates alternating blinking between the two LEDs.
-
----
-
-## Files
-
-(To be added)
-
-- KiCad schematic
-- Breadboard photos
-- Logic analyzer capture
-- Circuit diagram
 
 ---
 
